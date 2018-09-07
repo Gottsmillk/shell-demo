@@ -1,0 +1,11 @@
+Lee-Whitcomb-p4:
+total 304
+-rwxr-xr-x. 1 ugrad 109805 Dec  8 23:07 1730sh
+-rw-r--r--. 1 ugrad  14294 Dec  8 23:08 1730sh.cpp
+-rw-r--r--. 1 ugrad 167432 Dec  8 23:07 1730sh.o
+-rw-r--r--. 1 ugrad    184 Dec  7 20:12 Makefile
+-rw-r--r--. 1 ugrad    449 Dec  8 23:18 README
+-rw-r--r--. 1 ugrad    429 Dec  8 23:10 rec43952
+-rw-r--r--. 1 ugrad      0 Dec  8 23:18 rec49732
+-rw-r--r--. 1 ugrad    380 Dec  7 20:14 rec49795
+/home/ugrads/jwl/CSCI1730/Lee-Whitcomb-p4:/home/work/cs1730a

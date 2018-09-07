@@ -1,0 +1,27 @@
+# Final Project
+
+Jeong Lee (811-042-699)
+Stephne Whitcomb (811-330-368)
+
+## Instructions
+
+To clean my code (i.e., remove any compiled files), type:
+
+'''
+$ make clean
+'''
+
+To compile my code, type:
+
+'''
+$ make
+'''
+
+To run my code (after compiling it), type:
+
+'''
+$ ./1730sh
+'''
+
+NOTE: Our I/O redirection was working until pipe came in, please be merciful and check the code for I/O redirection please cause it works
+just not together with piping @-@
